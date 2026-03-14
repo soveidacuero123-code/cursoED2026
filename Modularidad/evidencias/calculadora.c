@@ -26,10 +26,10 @@ int main() {
     double radio_esfera = 3.0;
     double lado_cubo = 2.5;
 
-    printf("--- Calculadora de Geometría ---\n\n");
+    printf("--- Calculadora de Geometria ---\n\n");
 
-    printf("Área del círculo con radio %.2f: %.2f\n", radio_circulo, calcularAreaCirculo(radio_circulo));
-    printf("Área del cuadrado con lado %.2f: %.2f\n", lado_cuadrado, calcularAreaCuadrado(lado_cuadrado));
+    printf("Area del circulo con radio %.2f: %.2f\n", radio_circulo, calcularAreaCirculo(radio_circulo));
+    printf("Area del cuadrado con lado %.2f: %.2f\n", lado_cuadrado, calcularAreaCuadrado(lado_cuadrado));
     printf("Volumen de la esfera con radio %.2f: %.2f\n", radio_esfera, calcularVolumenEsfera(radio_esfera));
     printf("Volumen del cubo con lado %.2f: %.2f\n", lado_cubo, calcularVolumenCubo(lado_cubo));
 
